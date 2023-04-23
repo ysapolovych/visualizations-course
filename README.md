@@ -1,4 +1,4 @@
-Homework for Data Visualization course
+# Homework for Data Visualization course
 
 Data not provided.
 
